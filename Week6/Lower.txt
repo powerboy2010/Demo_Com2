@@ -1,0 +1,11 @@
+The Education Profile of student in Low GPA 
+=======================================================
+   ID                       Name          Dept.	 GPA
+=======                     ====          =====	 ===
+1420700153 		    Soontorn.A	  IT	 1.28
+1550700163 		    Sirada.W	  SE	 2.75
+
+================================
+Total is 2
+Min GPA is 1.28 from Soontorn.A
+================================

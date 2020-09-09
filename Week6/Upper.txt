@@ -1,0 +1,13 @@
+The Education Profile of student in High GPA 
+=======================================================
+   ID                       Name          Dept.	 GPA
+=======                     ====          =====	 ===
+1410701448 		    Wanaporn.D	  CS	 3.65
+1410702222 		    Supat.R	  CS	 3.55
+1430702500 		    Nida.T	  SE	 3.68
+1520700203 		    Sirinthorn.C	  CS	 3.31
+
+=============================
+Total is 4
+Max GPA is 3.68 from Nida.T
+=============================
